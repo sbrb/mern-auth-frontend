@@ -1,1 +1,1 @@
-# mern-auth--frontend
+# mern-auth-frontend
